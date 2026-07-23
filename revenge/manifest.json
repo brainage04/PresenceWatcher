@@ -1,0 +1,14 @@
+{
+  "name": "PresenceWatcher",
+  "description": "Notifies you when one selected Discord user comes online.",
+  "authors": [
+    {
+      "name": "brainage04",
+      "id": "0"
+    }
+  ],
+  "main": "src/index.ts",
+  "vendetta": {
+    "icon": "StatusOnlineIcon"
+  }
+}
